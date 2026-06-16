@@ -226,13 +226,13 @@ RideMaster
 
 ### Bike Ride + UPI Payment
 
-![Bike Ride](screenshots/BikeScreenshort.png)
+![Bike Ride](screenshots/BikeScreenshot.png)
 
 ---
 
 ### Car Ride + Card Payment
 
-![Car Ride](screenshots/CarScreenshot.png)
+![Car Ride](screenshots/CarScreenshort.png)
 
 ---
 
